@@ -1,18 +1,41 @@
-### Hi there 👋
+# Hello, I'm `0x4337`! 👋
 
-<!--
-**0x4337/0x4337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/0x4337)  
+![<YourName>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4337&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-![0x4337's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4337&show_icons=true&theme=transparent)
+I'm a `Full-Stack Web Developer`, passionate about `money`.
+
+---
+
+## 🛠️ Skills
+
+- `GPT-3.5`
+- `GPT-4`
+- `Stuff`
+- `Other Stuff`
+
+---
+
+## 🌐 Connect with me:
+
+
+[<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
+
+<br />
+
+---
+
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4337&layout=compact)](https://github.com/0x4337/github-readme-stats)
+
+---
+
+
+[twitter]: https://twitter.com/VantriaDAO)https://twitter.com/VantriaDAO
+[linkedin]: https://linkedin.com/in/adamgedge
