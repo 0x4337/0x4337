@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `Web3, trading, blockchain tech, swiss mountains`.
+I'm a `Full-Stack Web Developer`, passionate about `web3, trading, blockchain tech, mountains...`.
 
 ---
 
@@ -30,8 +30,8 @@ I'm a `Full-Stack Web Developer`, passionate about `Web3, trading, blockchain te
 
 ## 🌐 Connect with me:
 
-[twitter](https://twitter.com/VantriaDAO)
-[linkedin](https://linkedin.com/in/adamgedge)
+[Twitter](https://twitter.com/VantriaDAO)
+[LinkedIn](https://linkedin.com/in/adamgedge)
 
 <br />
 
