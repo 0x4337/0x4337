@@ -8,7 +8,7 @@ Rome wasn't built in a day, neither was my GitHub score.
 
 ## 🚀 About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `web3, trading, blockchain tech, mountains...`
+I'm a `Full-Stack Web Developer`, passionate about `web3, trading, blockchain tech, mountains...`, currently working 24/7 on `an automated copy trading platform`.
 
 ---
 
