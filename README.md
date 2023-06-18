@@ -27,6 +27,7 @@ I'm a `Full-Stack Web Developer`, passionate about `web3, trading, blockchain te
 - `AWS`
 - `Docker`
 - `Modern Design`
+- `Hitting my GPT-4 daily limit`
   
 ---
 
