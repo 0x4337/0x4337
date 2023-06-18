@@ -25,7 +25,7 @@ I'm a `Full-Stack Web Developer`, passionate about `Web3, trading, blockchain te
 - `AWS`
 - `Docker`
 - `Modern Design`
-- 
+  
 ---
 
 ## 🌐 Connect with me:
