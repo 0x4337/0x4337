@@ -1,7 +1,7 @@
 # Hello, I'm `0x4337`! 👋
 
 ![Profile views](https://gpvc.arturio.dev/0x4337)  
-![<YourName>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4337&show_icons=true&theme=radical)
+![0x4337's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4337&show_icons=true&theme=radical)
 
 ---
 
