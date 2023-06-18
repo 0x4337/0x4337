@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `web3, trading, blockchain tech, mountains...`.
+I'm a `Full-Stack Web Developer`, passionate about `web3, trading, blockchain tech, mountains...`
 
 ---
 
