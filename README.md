@@ -30,8 +30,8 @@ I'm a `Full-Stack Web Developer`, passionate about `Web3, trading, blockchain te
 
 ## 🌐 Connect with me:
 
-[twitter]: https://twitter.com/VantriaDAO)https://twitter.com/VantriaDAO
-[linkedin]: https://linkedin.com/in/adamgedge
+![twitter](https://twitter.com/VantriaDAO)
+![linkedin](https://linkedin.com/in/adamgedge)
 
 <br />
 
