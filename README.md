@@ -1,4 +1,4 @@
-# Hello, I'm `0x4337`! 👋
+# `0x4337` 👋
 
 Rome wasn't built in a day, neither was my GitHub score.
 <br />
