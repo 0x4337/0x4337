@@ -8,7 +8,7 @@ Rome wasn't built in a day, neither was my GitHub score.
 
 ## 🚀 About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `web3, trading and blockchain tech`, currently working 24/7 on `an automated copy trading platform`.
+I'm a `Full-Stack Web Developer`, passionate about `web3, trading and blockchain tech`, currently working 24/7 on `an automated cryptocurrency copy trading platform`.
 
 ---
 
@@ -24,6 +24,9 @@ I'm a `Full-Stack Web Developer`, passionate about `web3, trading and blockchain
 - `MySQL`
 - `MongoDB`
 - `Knex.js`
+- `Clerk`
+- `Auth0`
+- `Next-Auth`
 - `AWS`
 - `Docker`
 - `Modern Design`
