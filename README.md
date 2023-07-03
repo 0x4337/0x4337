@@ -1,6 +1,6 @@
 # `0x4337` 👋
 
-Rome wasn't built in a day, neither was my GitHub score.
+Rome wasn't built in a day, neither was my github grades.
 <br />
 ![0x4337's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4337&show_icons=true&theme=radical)
 
@@ -8,7 +8,7 @@ Rome wasn't built in a day, neither was my GitHub score.
 
 ## 🚀 About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `web3, trading and blockchain tech`, currently working 24/7 on `an automated cryptocurrency copy trading platform`.
+I'm a `Full-Stack Web Developer`, passionate about `web3, trading and blockchain tech`, currently working 24/7 on `an automated cryptocurrency copy trading dashboard and its corresponding landing page`.
 
 ---
 
