@@ -8,7 +8,7 @@ Rome wasn't built in a day, neither was my github grades.
 
 ## 🚀 About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `web3, trading and blockchain tech`, currently working 24/7 on `an automated cryptocurrency copy trading dashboard and its corresponding landing page`.
+I'm a `Full-Stack Web Developer`, passionate about `web3, trading and blockchain tech`, currently working 24/7 on `an automated cryptocurrency copy trading dashboard and its corresponding landing page in NextJS 13`.
 
 ---
 
