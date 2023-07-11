@@ -12,27 +12,17 @@ I'm a `Full-Stack Web Developer`, passionate about `blockchain, trading and ai t
 
 ---
 
-## 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,scss,nextjs,express,node,ts,mysql,mongodb,aws,docker)](https://skillicons.dev)
 
-- `HTML/CSS/JS/REACT`
-- `SCSS + BEM`
-- `Tailwind CSS`
-- `Next.js 13`
-- `Express.js`
-- `Node.js`
-- `Typescript`
-- `MySQL`
-- `MongoDB`
-- `Knex.js`
-- `Clerk`
-- `Auth0`
-- `Next-Auth`
-- `AWS`
-- `Docker`
-- `Modern Design`
-- `Hitting my GPT-4 daily limit`
-  
----
+Additional Skills:
+- SCSS + BEM
+- Knex.js
+- Clerk
+- Auth0
+- Next-Auth
+- Modern Design
+- Hitting my GPT-4 daily limit
+
 
 ## 🌐 Connect with me:
 
