@@ -12,11 +12,11 @@ I'm a `Full-Stack Web Developer`, passionate about `blockchain, trading and ai t
 
 ---
 
-Skills
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nextjs,express,nodejs,ts,mysql,mongodb,aws,docker,postman,vercel)](https://skillicons.dev)
 
-Additional Skills:
+### Additional Skills:
 - Knex.js
 - Clerk
 - Auth0
