@@ -4,6 +4,8 @@ Rome wasn't built in a day, neither was my github score.
 
 ![0x4337's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4337&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=0x4337&theme=react&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 ---
 
 ## 🚀 About Me
