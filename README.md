@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `web3, trading and ai tech`, currently working 24/7 on `an automated cryptocurrency copy trading admin and user dashboard along with its on brand landing page in NextJS 13 app dir and Tailwind`.
+I'm a `Full-Stack Web Developer`, passionate about `web3, trading, and ai that makes shit easier`, currently working 24/7 on `a multi-asset, automated, copy trading, admin and user dashboard along with its on brand landing page in NextJS 13 app dir and Tailwind`.
 
 ---
 
@@ -24,16 +24,16 @@ I'm a `Full-Stack Web Developer`, passionate about `web3, trading and ai tech`, 
 - Modern Design
 - Hitting my GPT-4 daily limit
 
-  I've forgotten 95% of the skills listed above but I know I can learn and pickup anything and everything necessary.
+I've forgotten 95% of the skills listed above but I know I can learn, re-learn and pickup anything and everything necessary.
 
-## 🌐 Connect with me:
+## Connect with me:
 
 [Twitter](https://twitter.com/VantriaDAO)
 [LinkedIn](https://linkedin.com/in/adamgedge)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4337&layout=compact)](https://github.com/0x4337/github-readme-stats)
 
