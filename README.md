@@ -14,7 +14,7 @@ I'm a `Full-Stack Web Developer`, passionate about `web3, trading, and ai that m
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nextjs,express,nodejs,ts,mysql,mongodb,aws,docker,postman,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nextjs,express,nodejs,ts,mysql,mongodb,aws,gcp,docker,postman,vercel,discord,firestore)](https://skillicons.dev)
 
 ### Additional Skills:
 - Knex.js
