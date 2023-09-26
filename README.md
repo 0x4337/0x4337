@@ -24,7 +24,11 @@ I'm a `Full-Stack Web Developer`, passionate about `web3, trading, and ai that m
 - Modern Design
 - Hitting my GPT-4 daily limit
 
-I've forgotten 95% of the skills listed above but I know I can learn, re-learn and pickup anything and everything necessary.
+I've forgotten 95% of the skills listed above. 
+
+### One More Skill
+- ability to learn, __re-learn__ and pickup anything and everything necessary.
+
 
 ## Connect with me:
 
@@ -36,7 +40,5 @@ I've forgotten 95% of the skills listed above but I know I can learn, re-learn a
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4337&layout=compact)](https://github.com/0x4337/github-readme-stats)
-
-See, I lied, I dont write typescript. see point above.
 
 ---
