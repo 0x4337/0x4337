@@ -11,8 +11,7 @@
 I'm a `Full-Stack Web Developer`, passionate about `web3, trading, and ai that makes shit easier`, currently working 24/7 on `a multi-asset, automated copy trading, admin and user dashboard along with its on brand landing page in NextJS 13 app dir and Tailwind`.
 
 
-![work](https://i.imgur.com/KqPVkzz.jpg)
-
+![work](https://i.imgur.com/iDSmtxL.png)
 
 ---
 
