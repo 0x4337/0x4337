@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a `Full-Stack Web Developer`, passionate about `web3, trading, and ai that makes life easier`, currently working 24/7 on `a multi-asset, automated copy trading, admin and user dashboard along with its on brand landing page. Working with NextJS 14, Jotai, React Query, TypeScript, Tailwind CSS, Express, Firestore and GCP.`.
+I'm a Full-Stack Web Developer, passionate about web3, trading, and ai that makes life easier, currently working 24/7 on a multi-asset, automated copy trading, admin and user dashboard along with its on brand landing page. Working with NextJS 14, Jotai, React Query, TypeScript, Tailwind CSS, Express, Firestore and GCP.
 
 https://copile.trade
 https://twitter.com/copiletrading
