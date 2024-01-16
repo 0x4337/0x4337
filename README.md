@@ -45,6 +45,6 @@ I've forgotten 95% of the skills listed above.
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4337&layout=compact)](https://github.com/0x4337/github-readme-stats)
+[![Top Langs](https://github-readme-stats-taupe-delta.vercel.app/api/top-langs/?username=0x4337&layout=compact)](https://github.com/0x4337/github-readme-stats)
 
 ---
