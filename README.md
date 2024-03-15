@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm Adam, a Full-Stack Web Developer, passionate about web3, trading, and ai that makes life easier, currently working 24/7 on a multi-asset, automated copy trading, admin and user dashboard along with its on brand landing page. Working with NextJS 14, Jotai, React Query, TypeScript, Tailwind, Node, NoSQL and GCP.
+I'm Adam, a Full-Stack Web Developer, passionate about web3, trading, and ai that makes life easier, currently working 24/7 on a multi-asset, automated copy trading, admin and user dashboard along with its on brand landing page, plus various side projects. Working with NextJS 14, Jotai, React Query, TypeScript, Tailwind, Node, NoSQL and GCP.
 
 https://copile.trade
 https://twitter.com/copiletrading
@@ -22,13 +22,6 @@ https://twitter.com/copiletrading
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nextjs,express,nodejs,ts,mysql,mongodb,aws,gcp,docker,postman,vercel,discord,firebase,stackoverflow)](https://skillicons.dev)
 
-### Additional Skills:
-- Knex.js
-- Clerk
-- Auth0
-- Next-Auth
-- Modern Design
-- Hitting my GPT-4 daily limit
 
 I've forgotten 95% of the skills listed above. 
 
