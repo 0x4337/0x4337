@@ -20,9 +20,6 @@ Coding trading platforms and other stuff
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nextjs,express,nodejs,ts,mysql,mongodb,aws,gcp,docker,postman,vercel,discord,firebase,stackoverflow)](https://skillicons.dev)
 
 
-### Best skill
-- ability to learn, __re-learn__ and pickup anything and everything necessary.
-
 
 ## Connect with me:
 
