@@ -23,7 +23,7 @@ Coding trading platforms and other stuff
 
 ## Connect with me:
 
-[Twitter](https://twitter.com/VantriaDAO) 
+[Twitter](https://twitter.com/s_econd111) 
 [LinkedIn](https://linkedin.com/in/adamgedge)
 
 ---
